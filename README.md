@@ -464,3 +464,8 @@ MIT License - Voir [LICENSE](LICENSE)
 ---
 
 **Créé avec ❤️ pour EnvSafe**
+
+## Author
+
+Created and maintained by **[Ifiboys](https://github.com/Ifiboys)**.
+Hosted under the [facydex](https://github.com/facydex) organization.

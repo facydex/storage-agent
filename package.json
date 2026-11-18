@@ -18,7 +18,7 @@
         "byos",
         "encryption"
     ],
-    "author": "EnvSafe",
+    "author": "Ifiboys (https://github.com/Ifiboys)",
     "license": "MIT",
     "dependencies": {
         "@prisma/client": "^7.3.0",
